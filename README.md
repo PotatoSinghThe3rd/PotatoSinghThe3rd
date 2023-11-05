@@ -2,7 +2,7 @@
 - I’m interested in Ethical Hacking
 - I’m currently learning computer networking, cryptography, and programming C++ 
 - I’m looking to collaborate on penetration testing
-- You can reach me via my email aaron2011s.24@gmail.com
+- You can reach me via my email singhpotato653@gmail.com
 
 <!---
 PotatoSinghThe3rd/PotatoSinghThe3rd is a special repository because its `README.md` (this file) appears on your GitHub profile.
