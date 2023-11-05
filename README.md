@@ -1,7 +1,7 @@
 - Hi, I’m @PotatoSinghThe3rd
 - I’m interested in Ethical Hacking
 - I’m currently learning computer networking, cryptography, and programming C++ 
-- I’m looking to collaborate on penetration testing
+- I’m looking to collaborate on penetration testing, Footprinting and reconnaissance, Scanning networks, Vulnerability analysis, and a lot more.
 - You can reach me via my email singhpotato653@gmail.com
 
 <!---
