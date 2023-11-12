@@ -1,0 +1,100 @@
+# papa's test
+#input("Press Enter To Start Sequence: ")
+
+#if len(name) == 0:
+    #for i in range(1,100,2):
+        #print(i)
+
+#n1 = int(input("Please enter first number: "))
+#n2 = int(input("Please enter second number: "))
+
+#n3 = n1 + n2
+#print(n3)
+#for i in range(10):
+    #n3 = n3 + n2
+    #print(n3)
+
+# papa's test
+#times = int(input("How many times?: "))
+
+#n1 = 0
+#n2 = 1
+
+#for i in range(times):
+    #print(n1)
+    #sum = n1 + n2
+    #n1 = n2
+    #n2 = sum
+
+# papa's test
+#names = ["Rohit"]*10
+#i = 0
+
+#while True:
+
+    #name = input("Please Enter Your Family members name: ")
+    #names[i] = name
+    #i=i+1
+
+    #question = input("Do you have more family members. Type yes or no: ")
+    #if question.lower() == 'no':
+        #break
+
+#for x in range(0,len(names[1])):
+
+    #print(names[1][x])
+
+# papa's test
+#n1 = int(input("Please enter number 1: "))
+#n2 = int(input("Please enter number 2: "))
+#n3 = int(input("Please enter number 3: "))
+
+#if n1 > n2 and n1 > n3:
+#    print(n1)
+#elif n2 > n1 and n2 > n3:
+#    print(n2)
+#else:
+#    print(n3)
+
+# papa's test
+# n = int(input("How many numbers would you like to enter?: "))
+# numbers = [0]*n
+#
+# for i in range(n):
+#     numbers[i] = int(input("Enter a number: "))
+#
+# largest = numbers[0]
+# smallest = numbers[0]
+#
+# for num in numbers:
+#     if smallest > num:
+#         smallest = num
+# for num in numbers:
+#     if largest < num:
+#         largest = num
+#
+# print("The largest number is "+ str(largest))
+# print("The smallest number is "+ str(smallest))
+
+# ints = int(input("How many numbers do you want to enter?: "))
+# num = [0]*ints
+# i = 0
+# sum = 0
+#
+# for i in range(ints):
+#     num[i] = int(input("Enter a number: "))
+#     sum = sum + num[i]
+# n = len(num)
+#
+# mean = sum/n
+# print("The mean is: "+ str(mean))
+
+
+
+
+
+
+
+
+
+
